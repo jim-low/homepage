@@ -1,6 +1,6 @@
 const Bookmarks = () => {
     return (
-        <div>
+        <div className="bookmarks">
 
         </div>
     )
